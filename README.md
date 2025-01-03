@@ -36,5 +36,5 @@ Welcome to my GitHub profile! I’m passionate about solving  problems and drivi
 
 ## 💬 Let’s Connect!  
 I’m always open to collaborating on impactful projects or discussing exciting opportunities.  
-- **LinkedIn**: [Nitin Kumar](www.linkedin.com/in/devashish-sahu-a509401b3/) 
-- **Email**: [nitinkumardeshmukh19@gmail.com](mailto:deva.sahu2001@gmail.com) 
+- **LinkedIn**: [Devashish Sahu](www.linkedin.com/in/devashish-sahu-a509401b3/) 
+- **Email**: [deva.sahu2001@gmail.com](mailto:deva.sahu2001@gmail.com) 
