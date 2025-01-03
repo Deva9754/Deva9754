@@ -19,13 +19,12 @@ Welcome to my GitHub profile! I’m passionate about solving  problems and drivi
 ## 🛠️ **Technical Skills**  
 ### **Frontend Development**  
 - **Languages**: HTML5, CSS3, SCSS, SASS, JavaScript (ES6+), TypeScript  
-- **Frameworks & Libraries**: React JS, Next.js, Angular JS, Node.js, Express.js  
-- **State Management**: Redux, Redux Toolkit, Zustand  
-- **UI Frameworks**: MUI, Ant Design, Tailwind CSS, Bootstrap  
+- **Frameworks & Libraries**: React JS,Angular JS, Node.js, Express.js  
+- **State Management**:  Redux Toolkit,
+- **UI Frameworks**: MUI, Tailwind CSS, Bootstrap  
 
 ### **Tools & Workflows**  
 - **UI Documentation**: Storybook  
-- **Data Visualization**: D3.js  
 - **Testing**: Jest  
 - **Version Control**: Git, GitHub  
 
@@ -37,5 +36,5 @@ Welcome to my GitHub profile! I’m passionate about solving  problems and drivi
 
 ## 💬 Let’s Connect!  
 I’m always open to collaborating on impactful projects or discussing exciting opportunities.  
-- **LinkedIn**: [Nitin Kumar](https://www.linkedin.com/in/nitin-kumar-343b741ab/) 
-- **Email**: [nitinkumardeshmukh19@gmail.com](mailto:nitinkumardeshmukh19@gmail.com) 
+- **LinkedIn**: [Nitin Kumar](www.linkedin.com/in/devashish-sahu-a509401b3/) 
+- **Email**: [nitinkumardeshmukh19@gmail.com](mailto:deva.sahu2001@gmail.com) 
