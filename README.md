@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m passionate about solving  problems and drivi
 - **Optimization** ⚡: Adept at performance optimization, modular architectures, and modern design patterns.  
 
 ## 🔥 **Open Source Contributions**  
-- **[MUI (Joy-UI)](https://github.com/mui/material-ui)**: Fixed an [issue](https://github.com/mui/material-ui/issues/39530) in the accordion component. The PR was successfully merged into the **main branch** of this industry-leading library.[#39530](https://github.com/mui/material-ui/issues/39530)  
+- **[MUI (Joy-UI)](https://github.com/mui/material-ui)**: Fixed an [issue](https://github.com/mui/material-ui/issues/39530) in the accordion component. The PR was successfully merged into the 
    
 
 ---
