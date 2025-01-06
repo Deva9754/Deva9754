@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I’m passionate about solving  problems and drivi
 
 ## 🌟 **About Me**  
 - **Frontend Wizard** 🖥️: Proficient in **React JS**, **JavaScript**, and **TypeScript**, specializing in building dynamic, user-centric, and high-performance web applications.   
-- **Open Source** 🌍: Proud contributor to projects like [**MUI**](https://github.com/mui/material-ui) and [**Pebblo**](https://github.com/daxa-ai/pebblo).  
 - **Optimization** ⚡: Adept at performance optimization, modular architectures, and modern design patterns.  
 
 
