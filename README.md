@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m passionate about solving  problems and drivi
 ## 🛠️ **Technical Skills**  
 ### **Frontend Development**  
 - **Languages**: HTML5, CSS3, SCSS, SASS, JavaScript (ES6+), TypeScript  
-- **Frameworks & Libraries**: React JS,Angular JS, Node.js, Express.js  
+- **Frameworks & Libraries**: React JS  
 - **State Management**:  Redux Toolkit,
 - **UI Frameworks**: MUI, Tailwind CSS, Bootstrap  
 
