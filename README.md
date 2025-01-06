@@ -10,11 +10,7 @@ Welcome to my GitHub profile! I’m passionate about solving  problems and drivi
 - **Open Source** 🌍: Proud contributor to projects like [**MUI**](https://github.com/mui/material-ui) and [**Pebblo**](https://github.com/daxa-ai/pebblo).  
 - **Optimization** ⚡: Adept at performance optimization, modular architectures, and modern design patterns.  
 
-## 🔥 **Open Source Contributions**  
-- **[MUI (Joy-UI)](https://github.com/mui/material-ui)**: Fixed an [issue](https://github.com/mui/material-ui/issues/39530) in the accordion component. The PR was successfully merged into the 
-   
 
----
 
 ## 🛠️ **Technical Skills**  
 ### **Frontend Development**  
