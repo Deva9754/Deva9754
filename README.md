@@ -64,7 +64,7 @@
   <!-- Gmail -->
   <a href="mailto:deva.sahu2001@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" title="Gmail" width="30" height="30" /></a>&nbsp;
   <!-- Instagram -->
-  <a href="https://www.instagram.com/_nitin_deshmukh" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram" width="30" height="30" /></a>
+  <a href="https://www.instagram.com/devashish_2_" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" title="Instagram" width="30" height="30" /></a>
 </p>
 
 --- 
