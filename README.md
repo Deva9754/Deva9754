@@ -22,20 +22,12 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <!-- React -->
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <!-- Next.js -->
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <!-- Angular -->
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <!-- Node.js -->
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <!-- Redux -->
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <!-- Zustand -->
   <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-007fff?style=for-the-badge&logoColor=white" />
   <!-- Material UI -->
   <img alt="Material UI" src="https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <!-- Ant Design -->
-  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
   <!-- Tailwind CSS -->
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <!-- Bootstrap -->
@@ -46,22 +38,18 @@
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <!-- Git -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <!-- LESS -->
-  <img alt="LESS" src="https://img.shields.io/badge/-LESS-1D365D?style=for-the-badge&logo=less&logoColor=white" />
+  
   <!-- SCSS -->
   <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <!-- Sass -->
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <!-- D3.js -->
   <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
-  <!-- TanStack Query -->
-  <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack_Query-FF4A00?style=for-the-badge&logo=tanstack&logoColor=white" />
   <!-- Axios -->
   <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E9?style=for-the-badge&logo=axios&logoColor=white" />
   <!-- Firebase -->
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCB2F?style=for-the-badge&logo=firebase&logoColor=white" />
   <!-- MongoDB -->
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 
