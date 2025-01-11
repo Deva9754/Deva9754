@@ -34,7 +34,6 @@
   <!-- Bootstrap -->
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <!-- Storybook -->
-
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
   <!-- Jest -->
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
