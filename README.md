@@ -6,7 +6,7 @@
 
 ---
   
- 
+
 <div align="left">
  <img src="https://readme-typing-svg.herokuapp.com?&color=fff&size=16&font=Poppins&weight=500&duration=1&repeat=false&width=1000&lines=Things+I+work+with+-" alt="Things I work with" />
 <p align="center">
